@@ -1,0 +1,5 @@
+ID nguoi muon: READER01
+Ten nguoi muon: Le Nhat Tuan
+ID sach muon: CK03
+Ngay muon sach: 11/12/2019
+Han tra sach: 18/12/2019

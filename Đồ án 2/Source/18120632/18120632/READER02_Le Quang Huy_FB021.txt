@@ -1,0 +1,5 @@
+ID nguoi muon: READER02
+Ten nguoi muon: Le Quang Huy
+ID sach muon: FB021
+Ngay muon sach: 10/12/2019
+Han tra sach: 17/12/2019
